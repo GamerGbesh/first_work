@@ -12,3 +12,7 @@ def him3(x, y):
 
 def him4(x, y):
     return x / y
+
+
+def him5(x, y):
+    return x % y
